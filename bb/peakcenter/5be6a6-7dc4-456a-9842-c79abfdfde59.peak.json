@@ -1,0 +1,54 @@
+{
+    "AX": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QLuDCb0D0ZxAu4uCPhJQN0C7k/w+E9GVQLucdTyJa3JAu6TvPiGI90C7rWg+K1aPQLu14j3/BV1Au75bPn3VFkC7xtU+xUSnQLvPTj7A235Au9fHPsiDhkC74EE+l3nxQLvouj7cTXpAu/E0Po5BIUC7+a0+tZ30QLwCJz7sS31AvAqgPr9JHkC8Exo+sAfUQLwbkz8B7AdAvCQNPtjpi0C8LIY+7ywQQLw1AD6cHWVAvD15Pp1Hz0C8RfM+SHkBQLxObD4VjRFAvFblPh6emkC8X189jvA/QLxn2D31XqpAvHBSPiT8qUC8eMs+ErUl",
+        "resolution": null
+    },
+    "CDD": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QLuDCQAAAABAu4uCAAAAAEC7k/wAAAAAQLucdTpKwPhAu6TvOqIz+kC7rWg7c035QLu14ju7jBxAu75bPDkDUEC7xtU85V2YQLvPTj2ViBVAu9fHPjwu10C74EE+l4OBQLvouj6xkl5Au/E0PrXtj0C7+a0+sl0hQLwCJz69c89AvAqgPrYB1kC8Exo+vAbWQLwbkz67jS1AvCQNPrYWHUC8LIY+rUtzQLw1AD6w8ChAvD15PqxYI0C8RfM+l1rzQLxObD5UvFxAvFblPbXYhUC8X1885V2YQLxn2DvzTfxAvHBSOo3tekC8eMsAAAAA",
+        "resolution": null
+    },
+    "H1": {
+        "center_dac": 5.874775464091707,
+        "center_signal": 112.76407171453828,
+        "high_dac": 5.882530975113752,
+        "high_resolving_power": 1322.4337642261423,
+        "high_signal": 84.06779333333161,
+        "low_dac": 5.867019953069663,
+        "low_resolving_power": 1267.1895915938562,
+        "low_signal": 84.38614476867038,
+        "points": "QLuDCT2wVgZAu4uCPgPaBUC7k/w+wzg/QLucdT+94JpAu6TvQMD8EEC7rWhBqEYRQLu14kJLUztAu75bQqcPWEC7xtVCzNgMQLvPTkLcsktAu9fHQuBt1kC74EFC4P08QLvoukLg2zBAu/E0QuGG4UC7+a1C4PVHQLwCJ0Lg+i5AvAqgQuDeVUC8ExpC4FQvQLwbk0LgJF5AvCQNQt92oEC8LIZC3LLrQLw1AELQIpZAvD15Qqmk9kC8RfNCSDyaQLxObEGdQpRAvFblQKZ5akC8X18/gFXmQLxn2D44cspAvHBSPLzXPUC8eMs8UrgV",
+        "resolution": 269.9339739025604
+    },
+    "L2": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QLuDCb2Au2dAu4uCvV/ex0C7k/y90816QLucdb1rGPRAu6Tvva8FF0C7rWi774SxQLu14r0T9sJAu75bvTvJqkC7xtU6yP1OQLvPTju/yWpAu9fHvQQ2REC74EG9TLFxQLvour3qfdpAu/E0vYTAhUC7+a28gZxXQLwCJzyTo/dAvAqgvRSJI0C8Exo9AWfZQLwbk71+IetAvCQNvcPVF0C8LIa9lI19QLw1ALtM0EVAvD15u4mqzUC8RfO88LB7QLxObL1GvQZAvFblvINO4kC8X1+9NabBQLxn2L2Jg5RAvHBSvKVlvEC8eMu9DvXe",
+        "resolution": null
+    },
+    "fmt": ">ff",
+    "interpolation": "cubic",
+    "reference_detector": "H1",
+    "reference_isotope": "Ar40"
+}

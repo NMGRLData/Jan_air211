@@ -142,9 +142,9 @@
         "value": 0.027350421503639664
     },
     "Ar39": {
-        "error": 0.013371801505373718,
+        "error": 0.010361381045399656,
         "error_type": "",
-        "fit": "Bracketing Interpolate",
+        "fit": "Bracketing Average",
         "references": [
             {
                 "exclude": "ok",
@@ -183,7 +183,7 @@
             }
         ],
         "reviewed": true,
-        "value": 0.08797759801166166
+        "value": 0.09164546203665833
     },
     "Ar40": {
         "error": 0.01580229917234991,
